@@ -1,0 +1,2 @@
+-   DemoKey.jks 为 demo 演示的密钥
+-   密码别名等一切信息都是 demodemo
